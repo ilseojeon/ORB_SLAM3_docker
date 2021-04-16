@@ -44,7 +44,7 @@ An example of monocular-inertial dataset
 ./Examples/Monocular-Inertial/mono_inertial_tum_vi Vocabulary/ORBvoc.txt Examples/Monocular-Inertial/TUM_512.yaml "$pathDatasetTUM_VI"/dataset-slides1_512_16/mav0/cam0/data Examples/Monocular-Inertial/TUM_TimeStamps/dataset-slides1_512.txt Examples/Monocular-Inertial/TUM_IMU/dataset-slides1_512.txt dataset-slides1_512_monoi
 ```
 
-### Referenced by
+### Referenced
 
 For ROS installation
 
